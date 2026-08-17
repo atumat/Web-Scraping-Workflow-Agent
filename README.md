@@ -5,6 +5,7 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-v2-red)
 ![License](https://img.shields.io/badge/License-MIT-purple)
 
+
 > An autonomous web extraction engine that prevents pipeline breakage by dynamically repairing outdated or modified DOM selectors at runtime using LLM-assisted context parsing and strict Pydantic validation.
 
 ### 🌟 Key Features
